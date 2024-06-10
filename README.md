@@ -1,0 +1,1 @@
+This project aims to optimize the allocation of fuel in tanks using Excel's Solver. The goal is to minimize shortage costs while meeting specific constraints, such as tank capacity and demand requirements.
